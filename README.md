@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Microsservices
 - 🤔 I’m looking for help with software architecture
 - 💬 Ask me about Java, Backend, Kafka
-- ⚡
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/est%C3%AAv%C3%A3o-filipe-cardoso-da-silva-149368161/) 
